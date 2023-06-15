@@ -1,0 +1,63 @@
+/* index */
+
+.divindex {
+    background-color:rgba(123, 88, 134, 0.61);
+    border-color: black;
+    border: solid;
+    margin: 20px ;
+    padding: 20px ;
+
+}
+.bodyindex{
+    background-color:rgba(11, 23, 36, 0.738);
+    color: aliceblue;
+}
+    .img{
+        width: 5%;
+        height: 2%;
+    }
+    /* word */ 
+    .divword1 {
+        background-color:rgb(69, 62, 122);
+        border-color: black;
+        border: solid;
+        margin: 20px ;
+        padding: 20px ;
+    }
+    .bodyword{
+        background-color: rgba(40, 40, 54, 0.908);
+        color: aliceblue;
+    }
+
+
+
+    /* excel */
+    .divexcel2 {
+        background-color:rgb(59, 81, 69);
+        border-color: black;
+        border: solid;
+        margin: 20px ;
+        padding: 20px ;
+    }
+    .bodyexcel{
+        background-color: rgba(15, 36, 10, 0.908);
+        color: aliceblue;
+    }
+  /* powerpoint */
+  .divpowerpoint3 {
+    background-color:rgb(120, 55, 17);
+    border-color: black;
+    border: solid;
+    margin: 20px ;
+    padding: 20px ;
+}
+.bodypoint{
+    background-color: rgba(50, 4, 4, 0.908);
+    color: aliceblue;
+}
+
+table, th, td {
+    table-layout: auto;
+    width: 50%;
+    border: 1px solid;
+  }
